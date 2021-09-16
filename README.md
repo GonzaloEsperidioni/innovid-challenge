@@ -30,5 +30,6 @@ npm run bootstrap
 npm start
 ```
 
-## Modalidad de entrega
-* Repositorio público subido a GitHub, Gitlab, Bitbucket.
+Twitch: gonzaespe
+Discord: Gnz#9599
+Linkedin: Gonzalo Esperidioni
